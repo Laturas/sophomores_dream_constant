@@ -1,0 +1,5 @@
+gcc main.c -O3 -lgmp
+./a.exe -w
+./a.exe -r
+gcc test.c -o test
+./test.exe
