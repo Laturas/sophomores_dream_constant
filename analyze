@@ -1,0 +1,20 @@
+echo "0:"
+grep -o '0' firstmil.txt | wc -l
+echo "1:"
+grep -o '1' firstmil.txt | wc -l
+echo "2:"
+grep -o '2' firstmil.txt | wc -l
+echo "3:"
+grep -o '3' firstmil.txt | wc -l
+echo "4:"
+grep -o '4' firstmil.txt | wc -l
+echo "5:"
+grep -o '5' firstmil.txt | wc -l
+echo "6:"
+grep -o '6' firstmil.txt | wc -l
+echo "7:"
+grep -o '7' firstmil.txt | wc -l
+echo "8:"
+grep -o '8' firstmil.txt | wc -l
+echo "9:"
+grep -o '9' firstmil.txt | wc -l
